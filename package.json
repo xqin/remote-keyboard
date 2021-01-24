@@ -1,0 +1,20 @@
+{
+  "name": "remotekeyboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "lint": "standard --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.4.2"
+  },
+  "devDependencies": {
+    "standard": "^16.0.4"
+  }
+}
